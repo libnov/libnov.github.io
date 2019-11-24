@@ -42,7 +42,7 @@
 
 > wish
 
-###探密.git 目录
+### 探密.git 目录
 
 ```shell
 huwei:.git huwei$ pwd
@@ -183,7 +183,7 @@ huwei:git-study huwei$
 
 
 
-###进一步理解 HEAD 和 branch
+### 进一步理解 HEAD 和 branch
 
 ```shell
 huwei:git-study huwei$ git checkout -b fix2 fix1
